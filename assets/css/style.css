@@ -1,0 +1,19 @@
+.masthead {
+    border: #cccccc solid 1px;
+    padding: 0px;
+}
+
+.brand-name {
+    background: #4aaaa5;
+    padding: 10px;
+}
+
+h1.brandname {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main-container {
+    width: 960px;
+    background-color: #ffffff;
+}
