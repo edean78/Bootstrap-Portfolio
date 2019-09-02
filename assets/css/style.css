@@ -67,8 +67,6 @@ h2  {
 
 footer.foot-style {
     position: sticky;
-    width: 100%;
-    height: 100%;
     bottom: 0;
     background-color: #666666;
     color: #ffffff;
@@ -85,3 +83,11 @@ footer.foot-style {
     background-color: #4aaaa5;
     border: 1px solid #4aaaa5;
 }
+
+.card-body {
+    background: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
+}
+
+
