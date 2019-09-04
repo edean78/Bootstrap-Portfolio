@@ -14,11 +14,21 @@ body {
     background: #ffffff;
 }
 
-.nav-head{
+.navbar {
     padding: 0;
 }
 
+.navbar-nav{
+    display: flex; 
+    flex-flow: row nowrap;
+}
+
+.nav-item {
+    
+}
+
 .brand-name {
+    height: 100%;
     background: #4aaaa5;
     text-align: center;
     padding: 10px;
@@ -30,7 +40,7 @@ h1, h2 {
 }
 
 h1.brandname {
-    color: white;
+    color:#ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
